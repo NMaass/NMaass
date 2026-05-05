@@ -2,7 +2,7 @@
 
 Product-minded full-stack engineer.
 
-I like building clear, reliable software for messy workflows.
+I like building clear, reliable software.
 
 ## Current Focus
 
@@ -14,14 +14,14 @@ I like building clear, reliable software for messy workflows.
 ## Main Stack
 
 - TypeScript, React.
-- Node, Bun, Fastify, Hono.
+- Node, Bun, Fastify.
 - Postgres, Supabase, Firebase, Cloudflare, Fly.
-- Payment, calendar, auth, scheduling, and webhook-based integrations.
 
 Most of my recent work lives in private repos, so I am working on sanitized case studies that show the product and engineering judgment behind the systems without exposing client code.
 
 Selected case studies:
 
-- Scheduling Sync Integration for a Multi-Location Service Workflow.
+
 - AI-Assisted Care Planning Workflow.
 - B2B Marketplace With Escrow And Role-Based Workflows.
+-  Scheduling Sync Integration for a Multi-Location Service Workflow.
