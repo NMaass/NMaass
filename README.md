@@ -1,8 +1,6 @@
 # Hi, I'm Nick.
 
-Product-minded full-stack engineer.
-
-I like building clear, reliable software for messy workflows.
+Full-stack engineer. I enjoy making software products and solving real problems for users.
 
 ## Current Focus
 
@@ -18,4 +16,4 @@ I like building clear, reliable software for messy workflows.
 - Postgres, Supabase, Firebase, Cloudflare, Fly.
 - Payment, calendar, auth, scheduling, and webhook-based integrations.
 
-Most of my recent work lives in private repos, but you can check out [cube-merge](https://github.com/NMaass/cube-merge) if you want to see how I think about building small, polished product experiences.
+Most of my recent work lives in private repos, but you can check out [cube-merge](https://github.com/NMaass/cube-merge) if you want to see how I build small, polished product experiences.
