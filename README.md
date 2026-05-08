@@ -2,6 +2,8 @@
 
 Full-stack engineer. I enjoy making software products and solving real problems for users.
 
+🌐 [nmaass.dev](https://nmaass.dev) · 📨 [nick@nmaass.dev](mailto:nick@nmaass.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-maassen-63ab53187/)
+
 ## Current Focus
 
 - Full-stack product engineering.
@@ -12,8 +14,21 @@ Full-stack engineer. I enjoy making software products and solving real problems 
 ## Main Stack
 
 - TypeScript, React.
-- Node, Bun, Fastify, Hono.
+- Node, Bun, Fastify.
 - Postgres, Supabase, Firebase, Cloudflare, Fly.
 - Payment, calendar, auth, scheduling, and webhook-based integrations.
 
-Most of my recent work lives in private repos, but you can check out [cube-merge](https://github.com/NMaass/cube-merge) if you want to see how I build small, polished product experiences.
+## Public projects
+
+- **[Cube Merge](https://cube-merge.nmaass.dev)** — real-time review tool with an immutable change log. Lighthouse 100/100. ([code](https://github.com/NMaass/cube-merge))
+- **[Trait Ranker](https://trait-ranker.nmaass.dev)** — drag-and-drop pairwise ranking with heap-sort + merge-sort to minimise comparisons. ([code](https://github.com/NMaass/trait-ranker))
+
+## Writing
+
+[Launching is letting go](https://nmaass.dev/writing/launching-is-letting-go) — on memory issues, microservices I almost built, and one line of Fly config.
+
+More on the [writing index](https://nmaass.dev/writing).
+
+---
+
+Most of my recent work lives in private repos. The portfolio at [nmaass.dev](https://nmaass.dev) has the engineering summary.
