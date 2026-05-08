@@ -4,19 +4,21 @@ Full-stack engineer. I enjoy making software products and solving real problems 
 
 🌐 [nmaass.dev](https://nmaass.dev) · 📨 [nick@nmaass.dev](mailto:nick@nmaass.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-maassen-63ab53187/)
 
-## Current Focus
+## Currently
 
-- Full-stack product engineering.
-- Client-facing product work.
-- Integrations, workflow systems, and production reliability.
-- AI-assisted workflows where the surrounding product and reliability work matter.
+Contracting with [Avodah Software](https://avodahsoftware.com) since Feb 2024. Worked on 9 client products — led 4 end-to-end and contributed substantial slices to 5 more — across payments, scheduling, AI-assisted healthcare, and multi-tenant admin tools.
 
-## Main Stack
+Mid-level. Looking for my next role at a devtools or AI company: implementation engineer, forward-deployed engineer, customer engineer, or product engineer.
 
-- TypeScript, React.
-- Node, Bun, Fastify.
-- Postgres, Supabase, Firebase, Cloudflare, Fly.
-- Payment, calendar, auth, scheduling, and webhook-based integrations.
+## What I do
+
+- Translate ambiguous client asks into scoped, shippable software
+- Integrate cleanly with whatever vendor APIs the workflow needs
+- Use AI tooling daily without outsourcing product judgment
+
+## Stack
+
+TypeScript · React · Bun · Fastify · Postgres · Supabase · Cloudflare (Workers, D1, Pages) · Fly · Stripe · Clerk · Sentry · Deepgram · OpenRouter · Promptfoo
 
 ## Public projects
 
@@ -25,10 +27,6 @@ Full-stack engineer. I enjoy making software products and solving real problems 
 
 ## Writing
 
-[Launching is letting go](https://nmaass.dev/writing/launching-is-letting-go) — on memory issues, microservices I almost built, and one line of Fly config.
+[Launching is letting go](https://nmaass.dev/writing/launching-is-letting-go) — on memory issues, worker services I almost built, and one line of Fly config.
 
 More on the [writing index](https://nmaass.dev/writing).
-
----
-
-Most of my recent work lives in private repos. The portfolio at [nmaass.dev](https://nmaass.dev) has the engineering summary.
