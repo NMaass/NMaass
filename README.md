@@ -27,6 +27,6 @@ TypeScript · React · Bun · Fastify · Postgres · Supabase · Cloudflare (Wor
 
 ## Writing
 
-[Launching is letting go](https://nmaass.dev/writing/launching-is-letting-go) — on memory issues, worker services I almost built, and one line of Fly config.
+[Put the hammer down](https://nmaass.dev/writing/put-the-hammer-down) — on one swing pre-launch is worth a hundred post-launch.
 
 More on the [writing index](https://nmaass.dev/writing).
