@@ -27,6 +27,6 @@ TypeScript · React · Bun · Fastify · Postgres · Supabase · Cloudflare (Wor
 
 ## Writing
 
-[Put the hammer down](https://nmaass.dev/writing/put-the-hammer-down) — on one swing pre-launch is worth a hundred post-launch.
+[Put the hammer down](https://nmaass.dev/writing/put-the-hammer-down) — one swing pre-launch is worth a hundred post-launch.
 
 More on the [writing index](https://nmaass.dev/writing).
