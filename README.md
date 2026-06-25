@@ -1,32 +1,25 @@
-# Hi, I'm Nick.
+# Hi, I’m Nick.
 
-Full-stack engineer. I enjoy making software products and solving real problems for users.
+I’m a full-stack engineer who likes building useful software for real workflows.
 
-🌐 [nmaass.dev](https://nmaass.dev) · 📨 [nick@nmaass.dev](mailto:nick@nmaass.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-maassen-63ab53187/)
+I work across product scoping, UI, backend, vendor APIs, deployment, and production hardening—mostly in TypeScript, React, Cloudflare, Supabase/Postgres, Stripe, Clerk, Sentry, and AI-assisted development workflows.
 
-## Currently
-
-Contracting with [Avodah Software](https://avodahsoftware.com) since Feb 2024. Worked on 9 client products — led 4 end-to-end and contributed substantial slices to 5 more — across payments, scheduling, AI-assisted healthcare, and multi-tenant admin tools.
-
-Mid-level. Looking for my next role at a devtools or AI company: implementation engineer, forward-deployed engineer, customer engineer, or product engineer.
+Recently I’ve worked on client software across scheduling, payments, healthcare workflows, CRM dashboards, and integration-heavy admin tools. I’m especially interested in product engineering, implementation engineering, customer engineering, and AI/devtools companies.
 
 ## What I do
 
-- Translate ambiguous client asks into scoped, shippable software
-- Integrate cleanly with whatever vendor APIs the workflow needs
-- Use AI tooling daily without outsourcing product judgment
-
-## Stack
-
-TypeScript · React · Bun · Fastify · Postgres · Supabase · Cloudflare (Workers, D1, Pages) · Fly · Stripe · Clerk · Sentry · Deepgram · OpenRouter · Promptfoo
+- Turn messy product requirements into scoped, shippable software
+- Build across UI, backend, database, vendor APIs, and deployment
+- Use AI coding tools daily without outsourcing product judgment
+- Care about product feel, clear writing, and operational reliability
 
 ## Public projects
 
-- **[Cube Merge](https://cube-merge.nmaass.dev)** — real-time review tool with an immutable change log. Lighthouse 100/100. ([code](https://github.com/NMaass/cube-merge))
-- **[Trait Ranker](https://trait-ranker.nmaass.dev)** — drag-and-drop pairwise ranking with heap-sort + merge-sort to minimise comparisons. ([code](https://github.com/NMaass/trait-ranker))
+- Cube Merge — real-time review tool for cube changes, with no-account collaboration and immutable change history.
+- Trait Ranker — pairwise ranking app using heap-sort + merge-sort to reduce user comparisons.
+- Bare Recipe — focused recipe extraction tool built to solve one recurring annoyance quickly.
 
 ## Writing
 
-[Put the hammer down](https://nmaass.dev/writing/put-the-hammer-down) — one swing pre-launch is worth a hundred post-launch.
-
-More on the [writing index](https://nmaass.dev/writing).
+- [Flip the hammer over](https://nmaass.dev/writing/flip-the-hammer-over) — how I learned to write as little software as possible.
+- More at [nmaass.dev/writing](https://nmaass.dev/writing).
